@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player_spawn",
+  "%Name":"obj_player_exit",
   "eventList":[],
   "managed":true,
-  "name":"obj_player_spawn",
+  "name":"obj_player_exit",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_spawn",
-    "path":"sprites/spr_player_spawn/spr_player_spawn.yy",
+    "name":"spr_player_exit",
+    "path":"sprites/spr_player_exit/spr_player_exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,
